@@ -45,6 +45,7 @@ body{
 
 .tenor-gif-embed {
     width: 15%; /* Adjust the width as needed */
+    justify-content: center
 }
 
 @font-face{

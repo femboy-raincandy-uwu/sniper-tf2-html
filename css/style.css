@@ -2,4 +2,10 @@ body{
     background-color: black;
     color: white;
     text-align: center;
+    margin: 0px;
+}
+
+header{
+    background-color: darkred;
+    padding: 69px;
 }

@@ -51,3 +51,9 @@ p{
     font-size: 30px;
     letter-spacing: 1px
 }
+
+.gif-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

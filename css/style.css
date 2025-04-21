@@ -3,9 +3,15 @@ body{
     color: white;
     text-align: center;
     margin: 0px;
+    font-family:'Courier New', Courier, monospace ;
 }
 
 header{
     background-color: darkred;
     padding: 69px;
+    font-family:'Courier New', Courier, monospace ;
+}
+
+footer{
+    font-family:'Courier New', Courier, monospace ;
 }

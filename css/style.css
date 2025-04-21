@@ -37,7 +37,7 @@ body{
 
 @font-face{
     font-family: 'MyCustomFont';
-    src: url("./fonts/queering.otf") format('opentype');
+    src: url("./fonts/queering-font/queering.otf") format('opentype');
     font-weight: normal;
     font-style: normal;
 }

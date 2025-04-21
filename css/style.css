@@ -1,3 +1,11 @@
+header{
+    background-color: darkred;
+    padding: 20px;
+    font-family: 'MyCustomFont';
+    src: url("./fonts/queering-font/queering.otf") format('opentype');
+    font-family: 'MyCustomFont', sans-serif;
+            }
+
 body{
     background-color: black;
     color: white;
@@ -5,10 +13,6 @@ body{
     margin: 0px;
     font-family: 'MyCustomFont', sans-serif;
 }
-
-header{
-    background-color: darkred;
-    padding: 20px;
 
 footer{
 

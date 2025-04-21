@@ -2,8 +2,9 @@ header{
     background-color: darkred;
     padding: 20px;
     font-family: 'MyCustomFont';
-    src: url("./fonts/queering-font/queering.otf") format('opentype');
+    src: url("../fonts/queering-font/queering.otf") format('opentype');
     font-family: 'MyCustomFont', sans-serif;
+    letter-spacing: 1px;
             }
 
 body{
@@ -34,14 +35,12 @@ header img{
 body{
     @font-face{
         font-family: 'MyCustomFont';
-        src: url("./fonts/queering-font/queering.otf") format('opentype');
+        src: url("../fonts/queering-font/queering.otf") format('opentype');
         font-family: 'MyCustomFont', sans-serif;
             }
 }
 
 @font-face{
     font-family: 'MyCustomFont';
-    src: url("./fonts/queering-font/queering.otf") format('opentype');
-    font-weight: normal;
-    font-style: normal;
+    src: url("../fonts/queering-font/queering.otf") format('opentype');
 }

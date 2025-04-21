@@ -37,10 +37,22 @@ body{
         font-family: 'MyCustomFont';
         src: url("../fonts/queering-font/queering.otf") format('opentype');
         font-family: 'MyCustomFont', sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
             }
+}
+
+.tenor-gif-embed {
+    width: 15%; /* Adjust the width as needed */
 }
 
 @font-face{
     font-family: 'MyCustomFont';
     src: url("../fonts/queering-font/queering.otf") format('opentype');
+}
+
+p{
+    font-size: 30px;
+    letter-spacing: 1px
 }

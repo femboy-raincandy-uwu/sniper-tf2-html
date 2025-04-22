@@ -68,6 +68,19 @@ li{
     list-style-position: inside;
 }
 
+a{
+    color:white
+}
+
+a:visited {
+    color: darkred;
+}
+
+a:hover {
+    color: pink;
+    background-color: transparent;
+  }
+
 .gif-container {
     width: 100%;
     display: flex;

@@ -5,7 +5,7 @@
 
 header{
     background-color: darkred;
-    padding: 0px;
+    padding: 20px;
     font-family: 'MyCustomFont';
     src: url("../fonts/queering-font/Queering-but-with-different-t.otf") format('opentype');
     font-family: 'MyCustomFont', sans-serif;
